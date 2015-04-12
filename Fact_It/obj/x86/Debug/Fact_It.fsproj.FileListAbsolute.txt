@@ -1,5 +1,0 @@
-C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\bin\Debug\Fact_It.exe
-C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\bin\Debug\Fact_It.pdb
-C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\obj\x86\Debug\Fact_It.fsprojResolveAssemblyReference.cache
-C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\obj\x86\Debug\Fact_It.exe
-C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\obj\x86\Debug\Fact_It.pdb
