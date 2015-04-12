@@ -19,13 +19,13 @@ Before computing the conclusion, the computational expresion will try to "Gather
 
 I developer the code in Xamarin Studio.  To run type at the Fsharp interactive console: 
 
-#load "[ROOT OF PROJECT]\Concept.fs";;
-#load "[ROOT OF PROJECT]\Calculation.fs";;
+&#35load "[ROOT OF PROJECT]\Concept.fs";;
+&#35load "[ROOT OF PROJECT]\Calculation.fs";;
 Calculations.ToyProblem.finalFact ();;
 
 i.e.
-#load "C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\Concept.fs";;
-#load "C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\Calculations.fs";;
+&#35load "C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\Concept.fs";;
+&#35load "C:\Users\Luis\Documents\Projects\Fact_It\Fact_It\Calculations.fs";;
 Calculations.ToyProblem.finalFact ();;
 
 Result:
